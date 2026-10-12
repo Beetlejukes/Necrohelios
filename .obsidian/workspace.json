@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a98b3d52c6e35a67",
+            "id": "d8e2e32394050003",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,6 +22,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "c01328cc410477aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad0243f69aa6d4d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d2d7a28dd10fac0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worldbuilding/Chiros II.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chiros II"
+                }
+              }
+            ]
+          },
+          {
+            "id": "45792fbc67e2b559",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a98b3d52c6e35a67",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -190,16 +233,17 @@
   },
   "active": "8a9be141fdd08457",
   "lastOpenFiles": [
+    "Worldbuilding/Spitballs/Writing",
+    "Worldbuilding/Spitballs",
+    "Worldbuilding/Chiros II.md",
+    "Games/Chiros II/Brainstorming.md",
     "README.md",
     "Worldbuilding/Galfoil Deep-Crust Survey and Analysis Platform.md",
-    "Games/Chiros II/Brainstorming.md",
     "Worldbuilding/Galfoil Industrial Concern.md",
     "Worldbuilding/Chiros II Research Facility Gamma.md",
     "Worldbuilding/Necrohelion.md",
     "Worldbuilding/Slipspace.md",
     "Worldbuilding/First Shock-Harvest of the Frontier Age.md",
-    "Worldbuilding/Chiros II.md",
-    "Worldbuilding/Untitled",
     "Welcome.md",
     "Games/Chiros II",
     "Games",

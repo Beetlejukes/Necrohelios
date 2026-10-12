@@ -15,3 +15,10 @@ From this point, you will spend some time exploring [[Chiros II Research Facilit
 - The player will be introduced to their character, their crew mates, and briefly to the universe which they will be inhabiting and exploring.
 	*What is the environment like?*
 	- The interior of the [[Galfoil Deep-Crust Survey and Analysis Platform]] *(or 'D-SAP')* is sparsely decorated but surprisingly well-designed on multiple fronts. The player will have spent ample time aboard them in the past, given their role as maintenance engineer.
+	- This segment will be spent familiarizing the player with the vibe of the world and, if included, basic repair gameplay mechanics.
+
+	*What is the player's goal in this environment?*
+	- The player is herein primarily concerned with the following goals:
+		- Be given a brief description of the setting, the actors, and the theme of the game.
+		- Perform basic repairs onboard the D-SAP during the return to [[Chiros II Research Facility Gamma|Research Facility Gamma]].
+		- Gather personal affects before disembarking.
