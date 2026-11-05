@@ -1,1 +1,0 @@
-#Location #Hub #Faction-Hub #Faction-Capital #Ship 
